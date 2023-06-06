@@ -1,0 +1,51 @@
+body{
+	margin: 0 10vw;
+	border: 0;
+	padding: 0;
+	background: repeat url(image/bg_Agriment_1.jpg);
+}
+#content{
+	margin: 0;
+	border: 0;
+	padding: 0;
+}
+header{
+	padding: 10vh 25vw;
+	background: no-repeat center/100% url(image/bg_Agriment_2.jpg);
+	color: white;
+	text-shadow: rgb(255, 166, 0) 0 0 10px;
+	font-size: 2rem;
+	font-style: italic;
+	text-align: center;
+}
+nav{
+	height: 5vh;
+}
+.center_window{
+	padding: 1rem;
+	width: auto;
+	height: 100%;
+	border: solid;
+	border-width: 0 5vw;
+	border-color: transparent rgba(0, 0, 0, .5);
+	background-clip: padding-box;
+	background-color: rgba(100, 100, 100, .7);
+	color: white;
+}
+
+#privacypolicy .title{
+	text-align: center;
+	font-weight: bolder;
+}
+#privacypolicy .subheading::before{
+	content: '★';
+	color: green;
+}
+#privacypolicy .subheading{
+	font-weight: bold;
+	color: palegreen;
+}
+#privacypolicy .content{
+	padding-left: 1rem;
+	color: aliceblue;
+}
