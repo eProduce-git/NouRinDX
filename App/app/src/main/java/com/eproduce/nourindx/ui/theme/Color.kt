@@ -1,4 +1,4 @@
-package com.example.nourindx.ui.theme
+package com.eproduce.nourindx.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package com.example.nourindx
+package com.eproduce.nourindx
 
 import org.junit.Test
 
