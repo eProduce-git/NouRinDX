@@ -2,4 +2,5 @@
     <string name="app_name">nourindx</string>
     <string name="client_id">1096990638079-p2nab8tjd11bc3u1crurqi566ekd5nl4.apps.googleusercontent.com</string>
     <string name="signIn">サインイン</string>
+    <string name="signOut">サインアウト</string>
 </resources>
